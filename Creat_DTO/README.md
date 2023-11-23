@@ -17,4 +17,4 @@ OOP 관점에서 올바르게 DTO 객체를 다루는 방법을 다룹니다.
 - 팩토리 패턴의 매개변수로 빌더 패턴 역시 사용 가능합니다.
 
 ## 상세 내용
-- https://doompa.tistory.com/418
+- https://doompa.tistory.com/419
